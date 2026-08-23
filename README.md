@@ -1,16 +1,74 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**shabarishbijoor/shabarishbijoor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Shabarish
 
-Here are some ideas to get you started:
+### 💻 CSE Student • Developer • Builder
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Building+%26+Learning+Every+Day;Exploring+Full+Stack+Development;Turning+Ideas+Into+Projects" alt="Typing SVG" />
+
+</div>
+
+---
+
+## 🚀 About Me
+
+🎓 Computer Science Engineering Student  
+💻 Interested in Software & Full-Stack Development  
+🌱 Currently learning and building real-world projects  
+⚡ I enjoy turning ideas into working applications  
+🎯 Always looking to learn something new
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js" />
+</p>
+
+### Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+---
+
+## 🚀 What I'm Building
+
+🔋 **EV Charging Station Finder & Booking**
+
+A full-stack web application for finding charging stations,
+checking availability and managing bookings.
+
+---
+
+## 🌱 Currently Learning
+
+```text
+Full-Stack Development
+        ↓
+JavaScript & React
+        ↓
+Node.js & Express
+        ↓
+Data Structures & Algorithms
+        ↓
+Building Real-World Projects
+```
+
+🤝 Connect With Me
+<div align="center"> <a href="https://github.com/shabarishbijoor"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/shabarishbijoor/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> </div>
+
+ 
+ <div align="center">
+⚡ Keep Learning. Keep Building. Keep Improving.
+</div>
