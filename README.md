@@ -25,13 +25,13 @@
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=c,python" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java" />
 </p>
 
 ### Web Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nodejs" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,tailwindcss,mongodb" />
 </p>
 
 ### Tools
@@ -71,9 +71,13 @@ Building Real-World Projects
 ```
 
 🤝 Connect With Me
-<div align="center"> <a href="https://www.instagram.com/shabarishhh.h/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/shabarishbijoor/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> </div>
+<div align="center"> <a href="https://www.instagram.com/shabarishhh.h/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/shabarishbijoor/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white"/> </a> </div>
 
  
  <div align="center">
 ⚡ Keep Learning. Keep Building. Keep Improving.
+</div>
+
+<div align="center">
+Better than Yesterday.
 </div>
