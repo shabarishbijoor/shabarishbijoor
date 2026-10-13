@@ -22,22 +22,8 @@
 
 ## 🛠️ Tech Stack
 
-### Languages
-
 <p>
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java" />
-</p>
-
-### Web Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,tailwindcss,mongodb" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,html,css,react,nodejs,tailwindcss,mongodb,git,github,vscode" />
 </p>
 
 ---
