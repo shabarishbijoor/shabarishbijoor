@@ -67,3 +67,19 @@ Building Real-World Projects
 <div align="center">
 Better than Yesterday.
 </div>
+
+---
+
+##  Quote of the Day
+
+<div align="center">
+
+<i>```"The expert in anything was once a beginner."```</i>
+
+<p align="right">
+<b>~ Helen Hayes</b>
+</p>
+
+</div>
+
+---
